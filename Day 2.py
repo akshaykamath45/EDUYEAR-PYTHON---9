@@ -17,7 +17,7 @@ print(st)
 
 
 #METHOD 2
-st=f"My name is {name}.My age is {18}.I am studying in{std} std."
+st=f"My name is {name}.My age is {age}.I am studying in {std} std."
 print(st)
 
 
